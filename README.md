@@ -1,4 +1,7 @@
-## Hi there 👋
+- 👋 Hi, I’m @elaa10
+- 👀 I’m interested in technology and logical problem-solving.
+- 🌱 I’m currently learning Computer Science at “Babes-Bolyai” University, Cluj-Napoca.
+- 📫 How to reach me trifan.alexandra10@gmail.com
 
 <!--
 **elaa10/elaa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
