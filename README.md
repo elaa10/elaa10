@@ -25,7 +25,7 @@ As a dedicated 3rd year student at the Faculty of Mathematics and Computer Scien
 
 ---
 
-- **Travel Agency** 🚌 
+- **Travel Agency** 🚌  
   A desktop and web application for booking tourist trips through multiple travel agencies. Implemented in parallel in Java and C#, it allows agencies to manage trips, search for excursions, and reserve tickets for clients in real time.
 
   🔗 [My Travel Agency Java Repo](https://github.com/elaa10/Java_travel_agency)
@@ -61,7 +61,7 @@ As a dedicated 3rd year student at the Faculty of Mathematics and Computer Scien
 
 ---
 
-- **Other projects I have contributed to"** ✨ 
+- **Other projects I have contributed to"** ✨  
   🔗 [SCS_landing_page](https://github.com/KiralyCraft/SCS_landing_page)
 
 ---
