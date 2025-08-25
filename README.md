@@ -6,14 +6,6 @@ As a dedicated 3rd year student at the Faculty of Mathematics and Computer Scien
 
 ---
 
-- 🎓 Pursuing studies at [Babeș-Bolyai University](https://www.ubbcluj.ro/)  
-- 💻 Currently learning advanced topics in **Computer Science**  
-- 📍 Located in **Cluj-Napoca, Romania**  
-- 📫 How to reach me: **trifan.alexandra10@gmail.com**  
-- 🌟 Interested in **Software Engineering** and **Problem-Solving**  
-
----
-
 ## 🚀 Projects
 
 - **Pet Explorer** 🐾  
@@ -30,6 +22,14 @@ As a dedicated 3rd year student at the Faculty of Mathematics and Computer Scien
   A Java-based application developed for managing a library, including books, users, and borrowing records.  
 
   🔗 [My Library Management Repo](https://github.com/elaa10/ISS_LAB1_20-02-2025)
+
+---
+
+- **Travel Agency** ✈️
+  A desktop and web application for booking tourist trips through multiple travel agencies. Implemented in parallel in Java and C#, it allows agencies to manage trips, search for excursions, and reserve tickets for clients in real time.
+
+  🔗 [My Travel Agency Java Repo](https://github.com/elaa10/Java_travel_agency)
+  🔗 [My Travel Agency C# Repo](https://github.com/elaa10/CSharp_travel_agency)
 
 ---
 
@@ -59,6 +59,15 @@ As a dedicated 3rd year student at the Faculty of Mathematics and Computer Scien
 
   🔗 [My_web_project Repo](https://github.com/elaa10/My_web_project)
 
+---
+
+- 🎓 Pursuing studies at [Babeș-Bolyai University](https://www.ubbcluj.ro/)  
+- 💻 Currently learning advanced topics in **Computer Science**  
+- 📍 Located in **Cluj-Napoca, Romania**  
+- 📫 How to reach me: **trifan.alexandra10@gmail.com**  
+- 🌟 Interested in **Software Engineering** and **Problem-Solving**  
+
+---
 
 
 
