@@ -33,10 +33,10 @@ As a dedicated 3rd year student at the Faculty of Mathematics and Computer Scien
 
 ---
 
-- **Movies Management** 🎬  
-  A console-based application in Python for managing the movie rental process.  
+- **Social Network Project** 🌐  
+  An application that implements a simplified social network model.  
 
-  🔗 [Movies Management Repo](https://github.com/elaa10/Python_Project_Movies)
+  🔗 [Social Network Repo](https://github.com/elaa10/Java_project_SocialNetwork)
 
 ---
 
@@ -44,6 +44,24 @@ As a dedicated 3rd year student at the Faculty of Mathematics and Computer Scien
   A C++ application with a graphical interface for managing a bookstore.  
 
   🔗 [BookStore Repo](https://github.com/elaa10/CPP_Project_BookStore)
+
+---
+
+- **Movies Management** 🎬  
+  A console-based application in Python for managing the movie rental process.  
+
+  🔗 [Movies Management Repo](https://github.com/elaa10/Python_Project_Movies)
+  
+---
+
+- **My_web_project** 🌍  
+  A web page showcasing the 10 most beautiful places to visit in 2023.  
+
+  🔗 [My_web_project Repo](https://github.com/elaa10/My_web_project)
+
+
+
+
 
 <!--
 - 👀 I’m interested in technology and logical problem-solving.
