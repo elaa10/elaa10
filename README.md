@@ -32,11 +32,25 @@ As a dedicated 3rd year student at the Faculty of Mathematics and Computer Scien
   🔗 [My Library Management Repo](https://github.com/elaa10/ISS_LAB1_20-02-2025)
 
 ---
+
+- **Movies Management** 🎬  
+  A console-based application in Python for managing the movie rental process.  
+
+  🔗 [Movies Management Repo](https://github.com/elaa10/Python_Project_Movies)
+
+---
+
+- **BookStore** 🏬  
+  A C++ application with a graphical interface for managing a bookstore.  
+
+  🔗 [BookStore Repo](https://github.com/elaa10/CPP_Project_BookStore)
+
+<!--
 - 👀 I’m interested in technology and logical problem-solving.
 - 🌱 I’m currently learning Computer Science at “Babes-Bolyai” University, Cluj-Napoca.
 - 📫 How to reach me trifan.alexandra10@gmail.com
 
-<!--
+
 **elaa10/elaa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
