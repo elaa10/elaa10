@@ -13,8 +13,8 @@ As a dedicated 3rd year student at the Faculty of Mathematics and Computer Scien
   The application helps pet lovers in Cluj to find veterinary pharmacies, pet shops, parks, and more.  
   It also allows users to notify others in case a pet gets lost.  
 
-  🔗 [PetExplorer Frontend](https://github.com/mariusvico/PetExplorerFrontend)  
-  🔗 [PetExplorer Backend](https://github.com/mariusvico/PetExplorerBackend)  
+  🔗 [PetExplorer Frontend](https://github.com/mariusvicol/PetExplorerFrontend)  
+  🔗 [PetExplorer Backend](https://github.com/mariusvicol/PetExplorerBackend)  
 
 ---
 
