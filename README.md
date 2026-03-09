@@ -18,7 +18,7 @@ As a dedicated 3rd year student at the Faculty of Mathematics and Computer Scien
 
 ---
 
-- **Explore România** 🇷🇴
+- **Explore România** 🇷🇴  
   Developed in collaboration with my colleagues, this interactive Android educational application is designed for 4th-grade students. Users navigate an interactive map of Romania, solve History and Geography quizzes, and collect stickers with different rarity levels.  
 
   * **Tech Stack:** Kotlin, Jetpack Compose, Clean Architecture, DataStore.  
