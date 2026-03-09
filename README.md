@@ -14,7 +14,17 @@ As a dedicated 3rd year student at the Faculty of Mathematics and Computer Scien
   It also allows users to notify others in case a pet gets lost.  
 
   🔗 [PetExplorer Frontend](https://github.com/mariusvicol/PetExplorerFrontend)  
-  🔗 [PetExplorer Backend](https://github.com/mariusvicol/PetExplorerBackend)  
+  🔗 [PetExplorer Backend](https://github.com/mariusvicol/PetExplorerBackend)
+
+---
+
+- **Explore România** 🇷🇴  
+  An interactive Android educational application designed for 4th-grade students. Users navigate an interactive map of Romania, solve History and Geography quizzes, and collect stickers with different rarity levels.  
+
+  * **Tech Stack:** Kotlin, Jetpack Compose, Clean Architecture, DataStore.  
+  * **Key Features:** Data-driven content (JSON), logical hint system, and reward mechanics (chests & collectibles).  
+
+  🔗 [Explore România Repo](https://github.com/alexvladu/ubibisoft)
 
 ---
 
