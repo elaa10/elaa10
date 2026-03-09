@@ -18,11 +18,11 @@ As a dedicated 3rd year student at the Faculty of Mathematics and Computer Scien
 
 ---
 
-- **Explore România** 🇷🇴  
-  An interactive Android educational application designed for 4th-grade students. Users navigate an interactive map of Romania, solve History and Geography quizzes, and collect stickers with different rarity levels.  
+- **Explore România** 🇷🇴
+  Developed in collaboration with my colleagues, this interactive Android educational application is designed for 4th-grade students. Users navigate an interactive map of Romania, solve History and Geography quizzes, and collect stickers with different rarity levels.  
 
   * **Tech Stack:** Kotlin, Jetpack Compose, Clean Architecture, DataStore.  
-  * **Key Features:** Data-driven content (JSON), logical hint system, and reward mechanics (chests & collectibles).  
+  * **Key Features:** Data-driven content (JSON), logical hint system, and reward mechanics.  
 
   🔗 [Explore România Repo](https://github.com/alexvladu/ubibisoft)
 
